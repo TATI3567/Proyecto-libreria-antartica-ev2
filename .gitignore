@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+.env
+=======
+# Variables de entorno secretas (¡Muy importante para no filtrar tus API Keys!)
+.env
+
+# Archivos y carpetas temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+>>>>>>> 838f7f2c577eb3edd3443d81602f6eb0162ab41d
