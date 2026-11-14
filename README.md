@@ -1,7 +1,7 @@
 # 📚 Agente de Verificación de Listas Escolares (RAG) — Librería Antártica
 
 **Asignatura:** Ingeniería de Soluciones con IA (ISY0101)
-**Evaluación:** Evaluación Parcial N°1 — Diseño de Solución con LLM y RAG
+**Evaluación:** Evaluación Parcial N°2 — Diseño de Solución con LLM y RAG
 **Integrantes:** [Isaac Marambio], [Matias Oliarte]
 **Docente:** [Cristian Andres Carcamo Mansilla] 
 
